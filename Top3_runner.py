@@ -17,4 +17,4 @@ while True:
 
 distances.sort(reverse = True)
 
-print (distances[:3])
+print ("Next top 3 distances ran are ", distances[:3])
